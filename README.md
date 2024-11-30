@@ -16,11 +16,17 @@ Utilized Matplotlib and Seaborn to create various charts and diagrams, including
 ## The analysis was segmented by key features:
 
 Gender 🧑‍🦱👩‍🦱 
+
 Age Group 👶👨‍🦳 
+
 Amount Spent 💵 
-Order Count 🛒 
+
+Order Count 🛒
+
 City 🌆 
+
 Occupation 💼
+
 
 ## 📈 Key Findings
 

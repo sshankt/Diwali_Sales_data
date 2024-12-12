@@ -5,6 +5,7 @@
 In this project, 
 I deeply analyzed the Diwali sales data using Python, NumPy, Pandas, Matplotlib, and Seaborn. The analysis includes insights based on various factors such as gender, age, amount spent, order count, city, and occupation. The goal was to identify significant patterns and trends, ultimately providing actionable insights to understand consumer behavior during Diwali better.
 
+![Shopping Data Analysis](Diwali.jpeg)
 ## 🔍 Data Analysis Steps
 
 ### Data Exploration:
